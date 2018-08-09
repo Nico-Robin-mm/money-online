@@ -1,0 +1,10 @@
+{ "extensionName": "Extension Example",
+"extensionPort": 12345,
+"blockSpecs": [
+[" ", "partner moved", "partnerMoved"],
+[" ", "set character to %s", "setChar", " "],
+["r", "character", "getCharacter"],
+]
+}
+
+

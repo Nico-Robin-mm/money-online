@@ -1,0 +1,2 @@
+python wsserver.py
+pause

@@ -1,0 +1,19 @@
+{ "extensionName": "Extension Example",
+"extensionPort": 12345,
+"blockSpecs": [
+[" ", "beep", "playBeep"],
+[" ", "set character to %s", "setChar", " "],
+["r", "character", "character"],
+[" ", "set dice to %s", "setDice", " "],
+["r", "word", "word"],
+["r", "AllConnected", "AllConnected"],
+["r", "MyTurn", "MyTurn"],
+["r", "Dice", "Dice"],
+[" ", "checkAvailChar", "checkAvailChar"],
+["r", "AvailChar", "AvailChar"],
+[" ", "checkChar", "checkChar"],
+[" ", "checkConnection", "checkConnection"],
+[" ", "partnerMoved", "partnerMoved"],
+[" ", "reset", "reset"],
+]
+}
